@@ -1,0 +1,47 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+#first_page_buttons {
+    text-decoration: none;
+    color: white;
+}
+
+#nav_dark {
+    background: black;
+}
+
+#search_dark {
+    border-color: black;
+}
+
+#footer_or {
+    background: #FF7F50;
+}
+
+#QA {
+    width: 60%;
+    margin-left: 20%;
+}
+
+#nav_white {
+    background: white;
+}
+
+#f1 {
+    width: 20%;
+    margin-left: 7%;
+    margin-right: 5%;
+}
+
+#f2 {
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+
+#f3 {
+    width: 20%;
+    margin-left: 7%;
+}
